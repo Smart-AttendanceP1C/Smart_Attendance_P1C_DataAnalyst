@@ -1,0 +1,10 @@
+2026-09-22 12:12:11,547 [INFO] Run started by user: zyad
+2026-09-22 12:12:11,548 [INFO] Run started. Input file: C:\Users\zyad\Desktop\Data analysis\data\processed\ATT_demo_dataset_converted.xlsx
+2026-09-22 12:12:12,465 [INFO] Loaded and validated: Enrollment=590 rows, AttendanceSessions=320 rows, AttendanceEvents=11800 rows
+2026-09-22 12:12:13,061 [INFO] Baseline (rule-based) sanity check vs. next-week-low label:
+2026-09-22 12:12:13,061 [INFO]   rows evaluated: 4720
+2026-09-22 12:12:13,062 [INFO]   TP=268  FP=1058  FN=160  TN=3234
+2026-09-22 12:12:13,062 [INFO]   precision=0.202  recall=0.626
+2026-09-22 12:12:13,063 [INFO]   flagged rate overall: 0.292
+2026-09-22 12:12:14,114 [INFO] Saved: outputs\weekly_features_and_flags.xlsx (5310 rows, student_id pseudonymized)
+2026-09-22 12:12:14,114 [INFO] Run by: zyad | finished at: 2026-09-22T12:12:14
